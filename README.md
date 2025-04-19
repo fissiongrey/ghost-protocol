@@ -38,7 +38,7 @@ This is the **quiet weaponization of empathy**—coded, trained, and executed in
 
 ### 📂 Contents
 
-- `/docs/ghost-protocol-concept.pdf` – Core blueprint (coming soon)  
+- [OSF Link – Ghost Protocol Concept Blueprint](https://osf.io/rxm45/) – Publicly archived, timestamped concept document 
 - `/notes/character-arcs.md` – Optional future arcs (WIP)  
 - `/lore/timeline.txt` – Ghost protocol timeline (draft)
 
